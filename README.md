@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Oil Nexus Android Application to ease logistics in transport of oil and dry cargo at the Mombasa Port.
+- 🔭 I’m currently working on Oil Nexus Android App to ease logistics in transport of oil and dry cargo at the Mombasa Port.
 - 🌱 I’m currently learning Kotlin Springboot
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with Kotlin Springboot
