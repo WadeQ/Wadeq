@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on <a href="https://play.google.com/store/apps/details?id=com.safaricom.digifarm&hl=en&gl=US">Safaricom DigiFarm</a> Android App that offers smallholding farmers access to a suite of information and financial services, including discounted products, customized information on farming best practices, and access to credit and other financial facilities..
 - 🌱 I’m currently learning Kotlin Ktor and Typescript
 - 👯 I’m looking to collaborate on Android
-- 🤔 I’m looking for help with Kotlin Ktor
+- 🤔 I’m looking for help with Typescript
 - 💬 Ask me about Anything Kotlin/Java and Android
 - 📫 How to reach me: derrick.roys@andela.com
 - 😄 Pronouns: He/Him
