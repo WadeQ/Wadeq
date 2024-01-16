@@ -2,7 +2,7 @@
 
  <p>Hi, I'm Derrick Wadek, I love building and collaborating on Android projects which make an impact and change lives, I mentor learners on Android at <a href="https://www.opportunitiesforafricans.com/the-google-africa-developer-scholarship/">GADS</a> and at <a href="https://www.udacity.com">Udacity</a> ,and also share knowledge and write intuitive articles at <a href="https://medium.com">Medium</a>.</p>
 
-- 🔭 I’m currently working on <a https://play.google.com/store/apps/details?id=com.safaricom.employeeapp a"> Safaricom Employee App</a> The Employee Super App is a groundbreaking platform carefully crafted to enhance engagement and optimise communication between Safaricom's valued employees and the organisation. This innovative digital solution is set to empower our workforce, fostering efficiency and productivity, all while leveraging an Omni Channel experience for a seamless engagement and delivery journey.
+- 🔭 I’m currently working on Safaricom Employee App, The Employee Super App is a groundbreaking platform carefully crafted to enhance engagement and optimise communication between Safaricom's valued employees and the organisation. This innovative digital solution is set to empower our workforce, fostering efficiency and productivity, all while leveraging an Omni Channel experience for a seamless engagement and delivery journey.
 - 🌱 I’m currently learning Kotlin Ktor and Typescript
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with Typescript
